@@ -2,7 +2,7 @@
 
 This project provides a graphical visualization of various sorting algorithms using the Pygame library. It demonstrates how different sorting algorithms work and allows you to observe their behavior in real-time.
 
-![Sorting Algorithm Visualization](screenshot.png)
+![Sorting Algorithm Visualization](https://raw.githubusercontent.com/GermanPaul12/Sorting-Algorithm-Visualiser-PyGame/main/assets/Sorting_Algorithm_Visualiser.png)
 
 ## Table of Contents
 
