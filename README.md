@@ -27,7 +27,7 @@ This project provides a graphical visualization of various sorting algorithms us
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/sorting-algorithm-visualization.git
+    git clone https://github.com/GermanPaul12/sorting-algorithm-visualization.git
     ```
 
 2. Navigate to the project directory:
